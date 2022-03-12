@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">High IQ Memes</string>
+    <string name="next">Next Meme</string>
+    <string name="share">Share this Meme</string>
+    <string name="open" />
+    <string name="close" />
+</resources>

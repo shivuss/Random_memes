@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <item
+        android:id="@+id/nav_shareApp"
+        android:title="Share App"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+    <item
+        android:id="@+id/nav_rateus"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_baseline_star_rate_24"/>
+
+    <item
+        android:id="@+id/nav_aboutme"
+        android:title="About Me"
+        android:icon="@drawable/ic_baseline_tag_faces_24"/>
+
+
+
+</menu>
